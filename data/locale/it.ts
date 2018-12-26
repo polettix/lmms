@@ -6032,7 +6032,7 @@ Motivo: &quot;%2&quot;</translation>
     <name>SetupDialog</name>
     <message>
         <source>Setup LMMS</source>
-        <translation>Cofigura LMMS</translation>
+        <translation>Configura LMMS</translation>
     </message>
     <message>
         <source>General settings</source>
